@@ -1,0 +1,11 @@
+C:\Users\aysuc\OneDrive\Masaüstü\C#\NotOrtalamaHesapla\NotOrtalamaHesapla\bin\Debug\NotOrtalamaHesapla.exe.config
+C:\Users\aysuc\OneDrive\Masaüstü\C#\NotOrtalamaHesapla\NotOrtalamaHesapla\bin\Debug\NotOrtalamaHesapla.exe
+C:\Users\aysuc\OneDrive\Masaüstü\C#\NotOrtalamaHesapla\NotOrtalamaHesapla\bin\Debug\NotOrtalamaHesapla.pdb
+C:\Users\aysuc\OneDrive\Masaüstü\C#\NotOrtalamaHesapla\NotOrtalamaHesapla\obj\Debug\NotOrtalamaHesapla.csproj.AssemblyReference.cache
+C:\Users\aysuc\OneDrive\Masaüstü\C#\NotOrtalamaHesapla\NotOrtalamaHesapla\obj\Debug\NotOrtalamaHesapla.csproj.SuggestedBindingRedirects.cache
+C:\Users\aysuc\OneDrive\Masaüstü\C#\NotOrtalamaHesapla\NotOrtalamaHesapla\obj\Debug\NotOrtalamaHesapla.Form1.resources
+C:\Users\aysuc\OneDrive\Masaüstü\C#\NotOrtalamaHesapla\NotOrtalamaHesapla\obj\Debug\NotOrtalamaHesapla.Properties.Resources.resources
+C:\Users\aysuc\OneDrive\Masaüstü\C#\NotOrtalamaHesapla\NotOrtalamaHesapla\obj\Debug\NotOrtalamaHesapla.csproj.GenerateResource.cache
+C:\Users\aysuc\OneDrive\Masaüstü\C#\NotOrtalamaHesapla\NotOrtalamaHesapla\obj\Debug\NotOrtalamaHesapla.csproj.CoreCompileInputs.cache
+C:\Users\aysuc\OneDrive\Masaüstü\C#\NotOrtalamaHesapla\NotOrtalamaHesapla\obj\Debug\NotOrtalamaHesapla.exe
+C:\Users\aysuc\OneDrive\Masaüstü\C#\NotOrtalamaHesapla\NotOrtalamaHesapla\obj\Debug\NotOrtalamaHesapla.pdb
